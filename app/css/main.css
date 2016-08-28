@@ -1,0 +1,10 @@
+/* base Elements */
+
+body {
+	margin-top: 70px;
+}
+
+.tweet-section img{
+	width: 100px;
+	height: 100px;
+}
